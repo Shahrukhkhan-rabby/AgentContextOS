@@ -1,0 +1,6 @@
+@AgentContextOS_HostAddress = http://localhost:5273
+
+GET {{AgentContextOS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
